@@ -18,7 +18,7 @@
                         <h3>No notes created yet</h3>
                     </div>
                     <div class="note-body">
-                        <p class="form-toggle">Create a new note <a href="index.php">here</a>.</p>
+                        <p class="form-toggle">Create a new note <a href="create.php">here</a>.</p>
                     </div>
                 </div>
             <?php } else {
